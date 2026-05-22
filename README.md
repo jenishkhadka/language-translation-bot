@@ -127,9 +127,4 @@ Can you translate in {language} for me
 * Time: ~1–2 Hours
 * Cost: Free (within AWS Free Tier)
 
----
 
-### Connect with Me 🌐
-
-* GitHub: [your-github-link]
-* LinkedIn: [your-linkedin-link]
