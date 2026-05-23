@@ -122,9 +122,6 @@ Can you translate in {language} for me
 
 ---
 
-### Estimated Time & Cost ⚙️
-
-* Time: ~1–2 Hours
-* Cost: Free (within AWS Free Tier)
+)
 
 
